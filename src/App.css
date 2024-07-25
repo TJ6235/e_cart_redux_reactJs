@@ -1,0 +1,21 @@
+*{
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+#navbar{
+  background-color: purple;
+}
+#navBtn{
+  background-color: rgb(78, 78, 78);
+  width: 150px;
+  height: 50px;
+}
+#navBtn2{
+  background-color: rgb(78, 78, 78);
+  width: 150px;
+  height: 50px;
+}
+#wholeFooterWrapper{
+  background-color: aqua;
+}
